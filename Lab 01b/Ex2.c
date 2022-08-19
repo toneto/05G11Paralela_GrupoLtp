@@ -3,7 +3,7 @@
 int main(void){
     float n1, n2, n3, me, ma;
 
-    printf("Digite a N1: ");
+    printf(" Digite a N1: ");
     scanf("%f", &n1);
 
     printf("Digite a N2: ");
