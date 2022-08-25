@@ -14,7 +14,7 @@ int main(void){
 
     for(int i=0; i<l; i++){
         for(int j=0; j<c; j++){
-            matriz[i][j] = (rand()%200)-100;
+            matriz[i][j] = (rand()%100);
         }
     }
 
