@@ -22,7 +22,7 @@ int main(void){
             printf("%d ", matriz[i][j]);
         }
         printf("\n");
-    }
+    }printf("\n");
 
     for (int i=0; i<l; i++) {
         for (int j=0; j<c; j++){
